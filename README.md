@@ -19,14 +19,6 @@ Pulls the linked DDS files + locations from a .nif file, and allows you to copy 
 
 ---
 
-## Features
-
-- Drag-and-drop NIF loading
-- Automatically finds referenced DDS files
-- Copy all found DDS to an output folder, with optional folder structure
-
----
-
 ## Dependencies / Third-Party Tools
 
 This application bundles the following third-party tool:
