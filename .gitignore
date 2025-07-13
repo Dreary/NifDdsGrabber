@@ -1,0 +1,78 @@
+# Ignore build results
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono
+mono_crash.*
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# OS generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Local history, temp, backup
+.localhistory/
+*~
+*.bak
+*.tmp
+*.temp
+
+# Test results
+TestResults/
+*.VisualState.xml
+*.vsp
+*.vspx
+*.vspscc
+*.vssscc
+*.cache
+*.dbmdl
+
+# VS auto generated
+.vs/
+
+# Publish Web Output
+app.publish/
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# MonoDevelop/Xamarin Studio
+*.userprefs
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Azure Pipelines
+.vsts/
+
+# WPF auto-gen files
+Generated_Code/
+
+# Local tools (we *do not* ignore tools/ or texconv.exe!)
+# !tools/
+# !tools/texconv.exe
+
+# Ignore DDSViewer temp cache
+DDSViewerCache/
